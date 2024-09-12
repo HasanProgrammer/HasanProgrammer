@@ -7,30 +7,30 @@ I have also had activities in the front-end field and have experience working wi
 
 Currently, I am focused on working on the `Domic` project a large-scale infrastructure project based on a microservices architecture and built on the .Net stack Below, you can find links to the projects centered around `Domic-CoreService` .
 
-01 . https://github.com/HasanProgrammer/Domic-CoreService
+🏆 . https://github.com/HasanProgrammer/Domic-CoreService
 
-02 . https://github.com/HasanProgrammer/Domic-UserService
+🏆 . https://github.com/HasanProgrammer/Domic-UserService
 
-03 . https://github.com/HasanProgrammer/Domic-AuthService
+🏆 . https://github.com/HasanProgrammer/Domic-AuthService
 
-04 . https://github.com/HasanProgrammer/Domic-StateTrackerService
+🏆 . https://github.com/HasanProgrammer/Domic-StateTrackerService
 
-05 . https://github.com/HasanProgrammer/Domic-DiscoveryService
+🏆 . https://github.com/HasanProgrammer/Domic-DiscoveryService
 
-06 . https://github.com/HasanProgrammer/Domic-WebAPIGateWay
+🏆 . https://github.com/HasanProgrammer/Domic-WebAPIGateWay
 
-07 . https://github.com/HasanProgrammer/Domic-GrpcService
+🏆 . https://github.com/HasanProgrammer/Domic-CategoryService
 
-08 . https://github.com/HasanProgrammer/Domic-TriggerService
+🏆 . https://github.com/HasanProgrammer/Domic-CommentService
 
-09 . https://github.com/HasanProgrammer/Domic-CategoryService
+🏆 . https://github.com/HasanProgrammer/Domic-ArticleService
 
-10 . https://github.com/HasanProgrammer/Domic-CommentService
+🏆 . https://github.com/HasanProgrammer/Domic-AggregateArticleService
 
-11 . https://github.com/HasanProgrammer/Domic-ArticleService
+🏆 . https://github.com/HasanProgrammer/Domic-TicketService
 
-12 . https://github.com/HasanProgrammer/Domic-AggregateArticleService
+🏆 . https://github.com/HasanProgrammer/Domic-TemplateService
 
-13 . https://github.com/HasanProgrammer/Domic-TicketService
+🏆 . https://github.com/HasanProgrammer/Domic-GrpcService
 
-14 . https://github.com/HasanProgrammer/Domic-TemplateService
+🏆 . https://github.com/HasanProgrammer/Domic-TriggerService

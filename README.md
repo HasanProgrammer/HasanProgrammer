@@ -5,7 +5,7 @@ I have also had activities in the front-end field and have experience working wi
 
 ---
 
-Currently, I am focused on working on the `Domic` project a large-scale infrastructure project based on a microservices architecture and built on the .Net stack Below, you can find links to the projects centered around `Domic-CoreService` .
+Currently, I am focused on working on the `Domic` project a large-scale infrastructure project based on a microservices architecture and built on the .Net stack . you can find links to the projects centered around `Domic-CoreService` .
 
 | Project | Link |
 |------------|------|

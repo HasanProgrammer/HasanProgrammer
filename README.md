@@ -14,12 +14,12 @@ Currently, I am focused on working on the `Domic` project a large-scale infrastr
 | 🏆 Domic-AuthService | https://github.com/HasanProgrammer/Domic-AuthService | Complete |
 | 🏆 Domic-StateTrackerService | https://github.com/HasanProgrammer/Domic-StateTrackerService | Complete |
 | 🏆 Domic-DiscoveryService | https://github.com/HasanProgrammer/Domic-DiscoveryService | Complete |
-| 🏆 Domic-WebAPIGateWay | https://github.com/HasanProgrammer/Domic-WebAPIGateWay | `Correction` |
+| 🏆 Domic-WebAPIGateWay | https://github.com/HasanProgrammer/Domic-WebAPIGateWay | Correction |
 | 🏆 Domic-CategoryService | https://github.com/HasanProgrammer/Domic-CategoryService | Complete |
 | 🏆 Domic-CommentService | https://github.com/HasanProgrammer/Domic-CommentService | Complete |
 | 🏆 Domic-ArticleService | https://github.com/HasanProgrammer/Domic-ArticleService | Complete |
 | 🏆 Domic-AggregateArticleService | https://github.com/HasanProgrammer/Domic-AggregateArticleService | Complete |
-| 🏆 Domic-TicketService | https://github.com/HasanProgrammer/Domic-TicketService | `Correction` |
+| 🏆 Domic-TicketService | https://github.com/HasanProgrammer/Domic-TicketService | Correction |
 | 🏆 Domic-TemplateService | https://github.com/HasanProgrammer/Domic-TemplateService | Complete |
-| 🏆 Domic-GrpcService | https://github.com/HasanProgrammer/Domic-GrpcService | `Correction`
-| 🏆 Domic-TriggerService | https://github.com/HasanProgrammer/Domic-TriggerService | `Correction`
+| 🏆 Domic-GrpcService | https://github.com/HasanProgrammer/Domic-GrpcService | Correction
+| 🏆 Domic-TriggerService | https://github.com/HasanProgrammer/Domic-TriggerService | Correction

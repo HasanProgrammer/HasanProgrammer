@@ -7,19 +7,19 @@ I have also had activities in the front-end field and have experience working wi
 
 Currently, I am focused on working on the `Domic` project a large-scale infrastructure project based on a microservices architecture and built on the .Net stack . you can find links to the projects centered around `Domic-CoreService` .
 
-| Project | Link |
-|------------|------|
-| 🏆 Domic-CoreService | https://github.com/HasanProgrammer/Domic-CoreService |
-| 🏆 Domic-UserService | https://github.com/HasanProgrammer/Domic-UserService |
-| 🏆 Domic-AuthService | https://github.com/HasanProgrammer/Domic-AuthService |
-| 🏆 Domic-StateTrackerService | https://github.com/HasanProgrammer/Domic-StateTrackerService |
-| 🏆 Domic-DiscoveryService | https://github.com/HasanProgrammer/Domic-DiscoveryService |
-| 🏆 Domic-WebAPIGateWay | https://github.com/HasanProgrammer/Domic-WebAPIGateWay |
-| 🏆 Domic-CategoryService | https://github.com/HasanProgrammer/Domic-CategoryService |
-| 🏆 Domic-CommentService | https://github.com/HasanProgrammer/Domic-CommentService |
-| 🏆 Domic-ArticleService | https://github.com/HasanProgrammer/Domic-ArticleService |
-| 🏆 Domic-AggregateArticleService | https://github.com/HasanProgrammer/Domic-AggregateArticleService |
-| 🏆 Domic-TicketService | https://github.com/HasanProgrammer/Domic-TicketService |
-| 🏆 Domic-TemplateService | https://github.com/HasanProgrammer/Domic-TemplateService |
-| 🏆 Domic-GrpcService | https://github.com/HasanProgrammer/Domic-GrpcService |
-| 🏆 Domic-TriggerService | https://github.com/HasanProgrammer/Domic-TriggerService |
+| Project | Link | Status |
+|------------|------|------|
+| 🏆 Domic-CoreService | https://github.com/HasanProgrammer/Domic-CoreService | Complete |
+| 🏆 Domic-UserService | https://github.com/HasanProgrammer/Domic-UserService | Complete |
+| 🏆 Domic-AuthService | https://github.com/HasanProgrammer/Domic-AuthService | Complete |
+| 🏆 Domic-StateTrackerService | https://github.com/HasanProgrammer/Domic-StateTrackerService | Complete |
+| 🏆 Domic-DiscoveryService | https://github.com/HasanProgrammer/Domic-DiscoveryService | Complete |
+| 🏆 Domic-WebAPIGateWay | https://github.com/HasanProgrammer/Domic-WebAPIGateWay | Complete\Correction |
+| 🏆 Domic-CategoryService | https://github.com/HasanProgrammer/Domic-CategoryService | Complete |
+| 🏆 Domic-CommentService | https://github.com/HasanProgrammer/Domic-CommentService | Complete |
+| 🏆 Domic-ArticleService | https://github.com/HasanProgrammer/Domic-ArticleService | Complete |
+| 🏆 Domic-AggregateArticleService | https://github.com/HasanProgrammer/Domic-AggregateArticleService | Complete |
+| 🏆 Domic-TicketService | https://github.com/HasanProgrammer/Domic-TicketService | Correction |
+| 🏆 Domic-TemplateService | https://github.com/HasanProgrammer/Domic-TemplateService | Complete |
+| 🏆 Domic-GrpcService | https://github.com/HasanProgrammer/Domic-GrpcService | Complete\Correction
+| 🏆 Domic-TriggerService | https://github.com/HasanProgrammer/Domic-TriggerService | Correction

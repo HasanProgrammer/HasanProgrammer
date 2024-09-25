@@ -20,6 +20,8 @@ Currently, I am focused on working on the `Domic` project a large-scale infrastr
 | 🏆 Domic-ArticleService | https://github.com/HasanProgrammer/Domic-ArticleService | Complete ✔ |
 | 🏆 Domic-AggregateArticleService | https://github.com/HasanProgrammer/Domic-AggregateArticleService | Complete ✔ |
 | 🏆 Domic-TicketService | https://github.com/HasanProgrammer/Domic-TicketService | Correction 🛠 |
+| 🏆 Domic-FinancialService | https://github.com/HasanProgrammer/Domic-FinancialService | Correction 🛠 |
+| 🏆 Domic-NotificationService | https://github.com/HasanProgrammer/Domic-NotificationService | Correction 🛠 |
 | 🏆 Domic-TemplateService | https://github.com/HasanProgrammer/Domic-TemplateService | Complete ✔ |
-| 🏆 Domic-GrpcService | https://github.com/HasanProgrammer/Domic-GrpcService | Correction ✔ |
-| 🏆 Domic-TriggerService | https://github.com/HasanProgrammer/Domic-TriggerService | Correction ✔ |
+| 🏆 Domic-GrpcService | https://github.com/HasanProgrammer/Domic-GrpcService | Complete ✔ |
+| 🏆 Domic-TriggerService | https://github.com/HasanProgrammer/Domic-TriggerService | Complete ✔ |

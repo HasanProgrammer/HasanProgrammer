@@ -28,4 +28,4 @@ Currently, I am focused on working on the `Domic` project a large-scale infrastr
 
 ## Domic Diagram
 
-![Domic](https://github.com/user-attachments/assets/e29f8a56-2539-4c8a-a7f2-8ea648f519d0)
+![Domic](https://github.com/user-attachments/assets/efad370c-d635-4a62-99a9-cd0c655d8e81)

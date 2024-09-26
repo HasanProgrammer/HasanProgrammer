@@ -26,6 +26,6 @@ Currently, I am focused on working on the `Domic` project a large-scale infrastr
 | 🏆 Domic-GrpcService | https://github.com/HasanProgrammer/Domic-GrpcService | Complete ✔ |
 | 🏆 Domic-TriggerService | https://github.com/HasanProgrammer/Domic-TriggerService | Complete ✔ |
 
----
+## Domic Diagram
 
-![Domic](https://github.com/user-attachments/assets/734a77a0-7cda-4a7e-b350-6f65bebda860)
+![Domic](https://github.com/user-attachments/assets/e833eff3-aa74-4da2-8003-1389d8679996)

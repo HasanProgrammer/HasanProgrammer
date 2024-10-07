@@ -26,3 +26,10 @@ You can view the `Domic` diagram project through the [Drawio-Domic]( https://vie
 | 🏆 Domic-TemplateService | https://github.com/HasanProgrammer/Domic-TemplateService | Complete ✔ |
 | 🏆 Domic-GrpcService | https://github.com/HasanProgrammer/Domic-GrpcService | Complete ✔ |
 | 🏆 Domic-TriggerService | https://github.com/HasanProgrammer/Domic-TriggerService | Complete ✔ |
+
+---
+
+## Complete Diagram Architecture `Domic`
+
+![Domic](https://github.com/user-attachments/assets/d94c83a2-0253-49f6-9646-4f280d061971)
+

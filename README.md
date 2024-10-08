@@ -21,6 +21,7 @@ You can view the `Domic` diagram project through the [Drawio-Domic]( https://vie
 | 🏆 Domic-ArticleService | https://github.com/HasanProgrammer/Domic-ArticleService | Complete ✔ |
 | 🏆 Domic-AggregateArticleService | https://github.com/HasanProgrammer/Domic-AggregateArticleService | Complete ✔ |
 | 🏆 Domic-TicketService | https://github.com/HasanProgrammer/Domic-TicketService | Correction 🛠 |
+| 🏆 Domic-AggregateTicketService | https://github.com/HasanProgrammer/Domic-AggregateTicketService | Correction 🛠 |
 | 🏆 Domic-FinancialService | https://github.com/HasanProgrammer/Domic-FinancialService | Correction 🛠 |
 | 🏆 Domic-NotificationService | https://github.com/HasanProgrammer/Domic-NotificationService | Correction 🛠 |
 | 🏆 Domic-TemplateService | https://github.com/HasanProgrammer/Domic-TemplateService | Complete ✔ |

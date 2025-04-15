@@ -12,7 +12,7 @@ You can view the `Domic` diagram project through the [Drawio-Domic]( https://vie
 |------------|------|------|
 | 🏆 Domic-CoreService | https://github.com/HasanProgrammer/Domic-CoreService | Complete ✔ |
 | 🏆 Domic-UserService | https://github.com/HasanProgrammer/Domic-UserService | Complete ✔ |
-| 🏆 Domic-AuthService | https://github.com/HasanProgrammer/Domic-AuthService | Complete ✔ |
+| 🏆 Domic-IdentityService | https://github.com/HasanProgrammer/Domic-IdentityService | Complete ✔ |
 | 🏆 Domic-StateTrackerService | https://github.com/HasanProgrammer/Domic-StateTrackerService | Complete ✔ |
 | 🏆 Domic-DiscoveryService | https://github.com/HasanProgrammer/Domic-DiscoveryService | Complete ✔ |
 | 🏆 Domic-WebAPIGateWay | https://github.com/HasanProgrammer/Domic-WebAPIGateWay | Correction 🛠 |

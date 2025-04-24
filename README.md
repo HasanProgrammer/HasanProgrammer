@@ -10,6 +10,7 @@ You can view the `Domic` diagram project through the [Drawio-Domic]( https://vie
 
 | Project | Link | Status |
 |------------|------|------|
+| 🏆 Domic-Config | https://github.com/HasanProgrammer/Domic-Config | Correction 🛠 |
 | 🏆 Domic-CoreService | https://github.com/HasanProgrammer/Domic-CoreService | Complete ✔ |
 | 🏆 Domic-UserService | https://github.com/HasanProgrammer/Domic-UserService | Complete ✔ |
 | 🏆 Domic-IdentityService | https://github.com/HasanProgrammer/Domic-IdentityService | Complete ✔ |
@@ -28,7 +29,6 @@ You can view the `Domic` diagram project through the [Drawio-Domic]( https://vie
 | 🏆 Domic-TemplateService | https://github.com/HasanProgrammer/Domic-TemplateService | Complete ✔ |
 | 🏆 Domic-GrpcService | https://github.com/HasanProgrammer/Domic-GrpcService | Complete ✔ |
 | 🏆 Domic-TriggerService | https://github.com/HasanProgrammer/Domic-TriggerService | Complete ✔ |
-| 🏆 Domic-Config | https://github.com/HasanProgrammer/Domic-Config | Correction 🛠 |
 
 ---
 

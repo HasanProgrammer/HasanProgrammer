@@ -10,7 +10,7 @@ You can view the `Domic` diagram project through the [Drawio-Domic]( https://vie
 
 | Project | Link | Status |
 |------------|------|------|
-| 🏆 Domic-CoreService | [Domic-CoreService-C#] ( https://github.com/HasanProgrammer/Domic-CoreService ) | Complete ✔ |
+| 🏆 Domic-CoreService | [Domic-CoreService-C#]( https://github.com/HasanProgrammer/Domic-CoreService ) | Complete ✔ |
 | 🏆 Domic-UserService | https://github.com/HasanProgrammer/Domic-UserService | Complete ✔ |
 | 🏆 Domic-IdentityService | https://github.com/HasanProgrammer/Domic-IdentityService | Complete ✔ |
 | 🏆 Domic-StateTrackerService | https://github.com/HasanProgrammer/Domic-StateTrackerService | Complete ✔ |

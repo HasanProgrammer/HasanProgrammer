@@ -11,7 +11,7 @@ You can view the `Domic` diagram project through the [Drawio-Domic]( https://vie
 | Project | Link ( .Net ) | Status | Link ( Go ) | Status |
 |------------|------|------|------|------|
 | 🏆 Domic-CoreService | [C#]( https://github.com/HasanProgrammer/Domic-CoreService ) | Complete ✔ | [Golang]( https://github.com/HasanProgrammer/Domic-CoreService-Go ) | Correction 🛠 |
-| 🏆 Domic-UserService | [C#]( https://github.com/HasanProgrammer/Domic-UserService ) | Complete ✔ | | |
+| 🏆 Domic-UserService | [C#]( https://github.com/HasanProgrammer/Domic-UserService ) | Complete ✔ | [Golang]( https://github.com/HasanProgrammer/Domic-UserService-Go ) | Correction 🛠 |
 | 🏆 Domic-IdentityService | [C#]( https://github.com/HasanProgrammer/Domic-IdentityService ) | Complete ✔ | | |
 | 🏆 Domic-StateTrackerService | [C#]( https://github.com/HasanProgrammer/Domic-StateTrackerService ) | Complete ✔ | | |
 | 🏆 Domic-DiscoveryService | [C#]( https://github.com/HasanProgrammer/Domic-DiscoveryService ) | Complete ✔ | | |

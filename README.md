@@ -26,7 +26,7 @@ You can view the `Domic` diagram project through the [Drawio-Domic]( https://vie
 | 🏆 Domic-FinancialService | [C#]( https://github.com/HasanProgrammer/Domic-FinancialService ) | Correction 🛠 | | |
 | 🏆 Domic-NotificationService | [C#]( https://github.com/HasanProgrammer/Domic-NotificationService ) | Correction 🛠 | | |
 | 🏆 Domic-TemplateService | [C#]( https://github.com/HasanProgrammer/Domic-TemplateService ) | Complete ✔ | | |
-| 🏆 Domic-GrpcService | [C#]( https://github.com/HasanProgrammer/Domic-GrpcService ) | Complete ✔ | | |
+| 🏆 Domic-GrpcService | [C#]( https://github.com/HasanProgrammer/Domic-GrpcService ) | Complete ✔ | [Golang]( https://github.com/HasanProgrammer/Domic-GrpcService-Go ) | Correction 🛠 |
 | 🏆 Domic-TriggerService | [C#]( https://github.com/HasanProgrammer/Domic-TriggerService ) | Complete ✔ | | |
 
 ---
